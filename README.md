@@ -14,26 +14,26 @@ TestCase 1
 
 * enter the size of transaction array
 
-3
+   3
 
 * enter the values of array
 
-20 12 31
+   20 12 31
 
 * enter the total no of targets that needs to be achieved
 
-2
+   2
 
 * enter the value of target
 
-21
+   21
 
 * Target achieved after 2 transactions
 
 
 * enter the value of target
 
-19
+   19
 
 * Target achieved after 1 transactions
 
@@ -50,11 +50,11 @@ Test Case 2
 
 * enter the size of transaction array
 
-1
+   1
 
 * enter the values of array
 
-100
+   100
 
 * enter the total no of targets that needs to be achieved
 
@@ -62,7 +62,7 @@ Test Case 2
 
 * enter the value of target
 
-101
+   101
 
 * Given target is not achieved
 
@@ -96,54 +96,54 @@ Explanation
 
   * enter the size of currency denominations
 
-  3
+     3
 
   * enter the currency denominations value
 
-  5
+     5
 
-  1
+     1
 
-  10
+     10
 
   * enter the amount you want to pay
  
-  12
+     12
 
   * Your payment approach in order to give min no of notes will be
 
-  10:1
+     10:1
 
-  1:2
+     1:2
 
 
   TestCase 2
 
   * enter the size of currency denominations
 
-  5
+     5
 
   * enter the currency denominations value
  
-  60
+     60
 
-  5
+     5
 
-  12
+     12
 
-  78
+     78
 
-  25
+     25
 
   * enter the amount you want to pay
  
-  128
+     128
 
   * Your payment approach in order to give min no of notes will be
  
-  78:1
+     78:1
 
-  25:2
+     25:2
 
 
   TestCase 3
@@ -151,31 +151,31 @@ Explanation
 
   * enter the size of currency denominations
  
-  4
+     4
 
   * enter the currency denominations value
  
-  12
+     12
 
-  5
+     5
 
-  123
+     123
 
-  18
+     18
 
   * enter the amount you want to pay
  
-  158
+     158
 
   * Your payment approach in order to give min no of notes will be
  
-  123:1
+     123:1
 
-  18:1
+     18:1
 
-  12:1
+     12:1
 
-  5:1
+     5:1
 
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
