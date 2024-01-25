@@ -41,6 +41,34 @@ Explanation
 
 -----------------------------------------------------------------------------------------------
 
+Test Case 2
+
+* enter the size of transaction array
+
+1
+
+* enter the values of array
+
+100
+
+* enter the total no of targets that needs to be achieved
+
+1
+
+* enter the value of target
+
+101
+
+* Given target is not achieved
+
+Explanation
+
+* Since there is only 1 transaction that is of 100 and the target value is 101, hence target is not achieved.
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
