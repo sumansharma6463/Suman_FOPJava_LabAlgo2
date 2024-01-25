@@ -58,7 +58,7 @@ Test Case 2
 
 * enter the total no of targets that needs to be achieved
 
-1
+   1
 
 * enter the value of target
 
